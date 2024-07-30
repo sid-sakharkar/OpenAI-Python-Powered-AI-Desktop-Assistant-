@@ -1,1 +1,1 @@
-# OpenAI-Python-Powered-AI-Desktop-Assistant-
+# OpenAI Python Powered AI Desktop Assistant
